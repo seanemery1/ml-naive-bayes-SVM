@@ -1,8 +1,7 @@
-## INFORMATION
-
+## PROJECT INFORMATION
 https://seanemery1.github.io/PDF-ml-naive-bayes-SVM/
 
-## INSTRUCTIONS
+## SETUP INSTRUCTIONS
 1) open runScripts.m
 
 2) modify line 13 of runScripts.m - change 'directoryPath' to the project folder
