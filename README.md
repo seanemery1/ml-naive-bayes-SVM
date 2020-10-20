@@ -1,5 +1,5 @@
 ## PROJECT INFORMATION
-https://seanemery1.github.io/PDF-ml-naive-bayes-SVM/
+https://seanemery1.github.io/ml-naive-bayes-SVM-PDF/
 
 ## SETUP INSTRUCTIONS
 1) open runScripts.m
